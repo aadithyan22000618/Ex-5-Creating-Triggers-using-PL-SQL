@@ -15,10 +15,7 @@
 8. Display the employee table, salary_log table.
 
 ### Program:
-```
-name : THANJIYAPPAN K
-REG NO: 212222240108
-```
+
 ```
 CREATE TABLE employed(
   empid NUMBER,
